@@ -12,4 +12,4 @@ Aqui podras encontrar noticias de los deportes del momento
 
 ### Contact me
 
-[email@domain.com](mailto:somostulipanes11@gmail.com)
+[somostulipanes11@gmail.com](mailto:somostulipanes11@gmail.com)
