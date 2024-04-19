@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Somos un grupo de alumnos del Ies Monte da Vila que queremos hacer un blog sobre noticias deportivas del momento
 
 ### More Information
 
