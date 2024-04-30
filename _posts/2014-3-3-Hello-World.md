@@ -3,6 +3,6 @@ layout: post
 title: Noticias Deportivas
 ---
 
-<a>href="{{ site.baseurl }}/">Muniain dice adiós al Athetic</a>
+<a>Muniain dice adiós al Athetic</a>
 ---
 
