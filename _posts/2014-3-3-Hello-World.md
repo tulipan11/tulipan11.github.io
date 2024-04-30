@@ -3,6 +3,6 @@ layout: post
 title: Noticias Deportivas
 ---
 
-<a>Muniain dice adiós al Athetic</a>
+<a href="muniain.md">Muniain dice adiós al Athletic</a>
 ---
 
