@@ -2,5 +2,4 @@
 layout: post
 title: Muniain le dice adiós al Athletic
 ---
-Muniain dice adios al Athletic
----
+<center><b>Muniain dice adiós al Athletic</b></center>
