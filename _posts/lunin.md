@@ -4,7 +4,7 @@ permalink: /lunin/
 ---
 <center><b>La renovación de Lunin</b></center>
 
-<img src="URL_DE_LA_IMAGEN" />
+<img src="https://github.com/tulipan11/tulipan11.github.io/blob/tulipan11-patch-1/images/lunin.jpeg" />
 
 La renovación de Lunin por el Real Madrid se acerca, pero no está cerrada ni mucho menos. Los dirigentes del club blanco lo tienen claro y pretenden atar al portero con un contrato de larga duración. Saben que con Courtois y el ucranio la portería madridista estaría cubierta durante un tiempo sin mayor problema.
 
