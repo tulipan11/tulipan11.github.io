@@ -4,6 +4,7 @@ title: Un final histórico, Philadelphia sobrevive con siete puntos en 30 segund
 permalink: /philadelfia/
 ---
 ![](https://phantom-marca.unidadeditorial.es/42bf0bb4fc370ac40cdd9515898720d0/resize/990/f/webp/assets/multimedia/imagenes/2024/05/01/17145454824087.jpg)
+
 <p Align=justify> Ver para creer. Los Playoffs de la NBA, ese mágico rincón de baloncesto y momentos casi imposibles, son imposibles de adivinar. Se llenan de épica. Sacan a lucir lo mejor de las estrellas.</p> 
 
 <p Align=justify>En el quinto partido de la serie entre New York Knicks y Philadelphia 76ers todo indicaba que habría un fin, hasta que Tyrese Maxey hizo historia. En la Meca, allí donde todos quieren inscribir su nombre.</p>
