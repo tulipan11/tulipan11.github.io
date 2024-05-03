@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Un final histórico, Philadelphia sobrevive con siete puntos en 30 segundos de Maxey
-hide_from_list: true
 permalink: /philadelfia/
 ---
 Ver para creer. Los Playoffs de la NBA, ese mágico rincón de baloncesto y momentos casi imposibles, son imposibles de adivinar. 
