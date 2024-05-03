@@ -1,6 +1,6 @@
 ---
 layout: post
-title: España asalta el podio del basket europeo 52 títulos internacionales de sus clubes
+title: España asalta el podio del basket europeo con 52 títulos internacionales de sus clubes
 hide_from_list: true
 permalink: /basquetspain/
 ---
