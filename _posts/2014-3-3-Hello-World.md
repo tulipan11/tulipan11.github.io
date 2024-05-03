@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Noticias Deportivas
+main_post: true
 ---
 
 <a href="muniain.md">Muniain dice adiós al Athletic</a>
