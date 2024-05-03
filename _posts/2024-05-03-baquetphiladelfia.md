@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Un final histórico: Philadelphia sobrevive con siete puntos en 30 segundos de Maxey:
+title: Un final histórico: Philadelphia sobrevive con siete puntos en 30 segundos de Maxey
 hide_from_list: true
 permalink: /Philadelfia/
 ---
