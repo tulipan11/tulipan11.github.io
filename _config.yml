@@ -4,7 +4,7 @@
 
 # Name of your site (displayed in the header)
 name: Tulipan
-
+theme: jekyll-theme-architect
 # Short bio or description (displayed in the header)
 description: Somos un blog de noticias deportivas
 
