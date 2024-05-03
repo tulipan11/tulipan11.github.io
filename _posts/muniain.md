@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Muniain le dice adiós al Athletic
-permalink: /muniain.md/
+permalink: /muniain/
 ---
 <center><b>Muniain dice adiós al Athletic</b></center>
 
